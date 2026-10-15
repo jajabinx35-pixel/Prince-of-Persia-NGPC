@@ -2,6 +2,14 @@
 
 **An unofficial, AI-assisted adaptation of the original DOS Prince of Persia for the Neo Geo Pocket Color.**
 
+## Gameplay Screenshots
+
+### Title Screen
+![Prince of Persia NGPC Title Screen](POP.png)
+
+### Level 1 Gameplay
+![Prince of Persia NGPC Level 1](level1.png)
+
 > **Version 1.0.0:** Compiled NGPC ROM prepared for a GitHub Release. Source files and proprietary build tools are not part of this package. The online `PERSIA` leaderboard is subject to activation by its operator. See [Credits & Rights](CREDITS_AND_RIGHTS.md) for copyright and GPL-related distribution considerations.
 
 ![Platform](https://img.shields.io/badge/Platform-Neo%20Geo%20Pocket%20Color-334466) ![ROM](https://img.shields.io/badge/ROM-2%20MiB-334466) ![Levels](https://img.shields.io/badge/Levels-14-334466)
