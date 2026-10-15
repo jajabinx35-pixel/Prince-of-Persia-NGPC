@@ -10,6 +10,14 @@
 ### Level 1 Gameplay
 ![Prince of Persia NGPC Level 1](level1.png)
 
+## Gameplay Video
+
+Watch Prince of Persia running on the Neo Geo Pocket Color!
+
+[![Watch Prince of Persia NGPC Gameplay](https://img.youtube.com/vi/bN14BqbE3cM/hqdefault.jpg)](https://www.youtube.com/watch?v=bN14BqbE3cM)
+
+*Click the image above to watch the gameplay video on YouTube.*
+
 > **Version 1.0.0:** Compiled NGPC ROM prepared for a GitHub Release. Source files and proprietary build tools are not part of this package. The online `PERSIA` leaderboard is subject to activation by its operator. See [Credits & Rights](CREDITS_AND_RIGHTS.md) for copyright and GPL-related distribution considerations.
 
 ![Platform](https://img.shields.io/badge/Platform-Neo%20Geo%20Pocket%20Color-334466) ![ROM](https://img.shields.io/badge/ROM-2%20MiB-334466) ![Levels](https://img.shields.io/badge/Levels-14-334466)
