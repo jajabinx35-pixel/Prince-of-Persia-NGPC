@@ -1,0 +1,6 @@
+Version 1.0.0 release ROM (INCLUDED in this package under GitHub_Release_ROM/)
+Filename: Prince_of_Persia-NGPC-v1.0.0.ngc
+Size: 2097152 bytes (2 MiB)
+SHA-256: 3042b6c0c10a6b122facfa96f4b70711395e60473dc1e0e72a6a4fa5b641f8a9
+
+Compare this SHA-256 after copying or downloading the ROM to verify that it is the exact submitted build.
