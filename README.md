@@ -1,3 +1,17 @@
+## Open-source NGPC performance tools
+
+The [`NGPC gameplay-step profiler`](tools/ngpc_perf/README.md) is a
+freely reusable MIT-licensed Python tool for measuring **real gameplay update
+intervals** from emulator frame/step captures. It includes a small LEAP66
+versus LEAP67 MAME measurement dataset, automated regression tests, and a
+GitHub Actions workflow. See [engineering notes](docs/NGPC_OPEN_SOURCE_ENGINEERING.md)
+and [contribution guidance](CONTRIBUTING.md).
+
+The profiler's MIT licence does **not** apply to the Prince of Persia game,
+third-party assets, ROM, or SDLPoP-derived GPL source. This is a noncommercial
+fan engineering project with distinct upstream rights.
+
+
 # Prince of Persia — Neo Geo Pocket Color
 
 **An unofficial, AI-assisted adaptation of the original DOS Prince of Persia for the Neo Geo Pocket Color.**
